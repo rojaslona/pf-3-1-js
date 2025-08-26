@@ -30,6 +30,12 @@ Está función debe:
 1. Recibir dos parametros
 2. Mostrar en consola la suma de los dos parametros recibidos en la funcion
 
+## Recursos útiles
+
+- [¿Qué son parametros y argumentos?](https://www.freecodecamp.org/news/what-is-the-difference-between-parameters-and-arguments-in-javascript/)
+
+- [Funciones](https://developer.mozilla.org/es/docs/Web/JavaScript/Guide/Functions)
+
 ## Tiempo Extra
 
 - Hacer una función que reste dos números
